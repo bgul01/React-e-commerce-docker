@@ -1,0 +1,49 @@
+/* src/components/ProductCarousel.css */
+
+.product-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+  border-radius: 8px;
+
+  transition: transform 0.3s ease;
+  overflow-x: auto;
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+}
+
+.product-card img {
+
+  width: 100%;
+  /* Resmi container genişliği kadar genişletmek için */
+ /* Resmi container yüksekliği kadar yüksekletmek için */
+  object-fit: cover; /* Resmi orantılı olarak doldurmak için */
+}
+
+.product-info {
+  padding: 1em;
+}
+
+.product-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+/* Bulma'dan gelen sınıflar */
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px; /* Öğeler arasındaki boşluğu belirleme */
+  margin-right: -0.75rem;
+  margin-left: -0.75rem;
+}
+
+.column {
+  flex: 1;
+  padding: 0.75rem;
+}

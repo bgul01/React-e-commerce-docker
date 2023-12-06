@@ -1,0 +1,41 @@
+.quantity {
+    display: inline-block; /* İçeriği yan yana yerleştir */
+    
+   
+  margin:  10px; /* İstediğiniz boşlukları ayarlayın */
+    border: 1px solid #ccc; /* 1 piksel kalınlığında, gri renkli bir kenar ekle */
+    border-radius: 5px;
+    
+    
+  padding: 5px; /* İçeriğin kenardan uzaklığını ayarla */
+  }
+
+  
+
+  .total-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+   }
+   
+   .gift-cards {
+    margin-bottom: 20px;
+   }
+   
+   .additional-info {
+    margin-top: 20px;
+   }
+   
+   .button {
+    padding: 8px 16px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+   }
+   
+   .button.is-success {
+    background-color: #4caf50;
+    color: white;
+   }
+  

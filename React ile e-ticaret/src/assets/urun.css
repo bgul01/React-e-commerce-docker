@@ -1,0 +1,12 @@
+/* CSS */
+.box {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .box:hover {
+    transform: scale(1.1);
+  }
+  
+  

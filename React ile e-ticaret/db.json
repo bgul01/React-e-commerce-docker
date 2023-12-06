@@ -1,0 +1,88 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "quantity": 1,
+      "name": "Ürün 1",
+      "price": 19.99,
+      "img": "https://static.ticimax.cloud/31006/Uploads/UrunResimleri/cesme-limonu-kolonyasi-200-ml-cam-sise-bc-4f6.jpg"
+    },
+    {
+      "id": 2,
+      "quantity": 1,
+      "name": "Ürün 2",
+      "price": 29.99,
+      "img": "https://static.ticimax.cloud/31006/Uploads/UrunResimleri/ayvalik-zeytin-cicegi-kolonyasi-400-ml-12-a59.jpg"
+    },
+    {
+      "id": 3,
+      "quantity": 1,
+      "name": "Ürün 3",
+      "price": 39.99,
+      "img": "https://static.ticimax.cloud/31006/Uploads/UrunResimleri/hatiralar-kolonyasi-400-ml-pet-sise-b8a-4d.jpg"
+    },
+    {
+      "id": 4,
+      "quantity": 1,
+      "name": "Ürün 4",
+      "price": 19.99,
+      "img": "https://static.ticimax.cloud/31006/Uploads/UrunResimleri/bodrum-mandalinasi-kolonyasi-400-ml-pe--bfa5-.jpg"
+    },
+    {
+      "id": 5,
+      "quantity": 1,
+      "name": "Ürün 5",
+      "price": 29.99,
+      "img": "https://static.ticimax.cloud/31006/uploads/urunresimleri/blackoud-parfumlu-kolonya-100-ml-cam-s-f-c22d.jpg"
+    },
+    {
+      "id": 6,
+      "quantity": 1,
+      "name": "'Ürün 6",
+      "price": 39.99,
+      "img": "https://static.ticimax.cloud/31006/uploads/urunresimleri/hagia-sophia-eau-de-cologne--150-ml-cam-74b6.jpg"
+    },
+    {
+      "id": 7,
+      "quantity": 1,
+      "name": "'Ürün 7",
+      "price": 39.99,
+      "img": "https://static.ticimax.cloud/31006/Uploads/UrunResimleri/thumb/bodrum-mandalinasi-el-ve-vucut-peeling-b8f9-1.jpg"
+    },
+    {
+      "id": 8,
+      "quantity": 1,
+      "name": "'Ürün 8",
+      "price": 39.99,
+      "img": "https://static.ticimax.cloud/31006/Uploads/UrunResimleri/okyanus-desenli-poset-buyuk-boy-8d-e74.jpg"
+    },
+    {
+      "id": 9,
+      "quantity": 1,
+      "name": "'Ürün 9",
+      "price": 39.99,
+      "img": "https://img.freepik.com/free-vector/realistic-luxury-perfume-ad-template_52683-8484.jpg?size=626&ext=jpg&ga=GA1.1.1746546130.1701362229&semt=ais"
+    },
+    {
+      "id": 10,
+      "quantity": 1,
+      "name": "'Ürün 10",
+      "price": 15.99,
+      "img": "https://img.freepik.com/free-vector/night-cosmetic-serum-face-skin-care_88138-25.jpg?1&w=826&t=st=1701366774~exp=1701367374~hmac=2631ef255dfe2bf661615933793a6254c6218044c98a724efbd2eb8d09eaf5c7"
+    }
+  ],
+  "home": [
+    {
+      "id": 32423432427686734,
+      "img": "src/assets/img/1316.jpg"
+    },
+    {
+      "id": 324234324234,
+      "img": "src/assets/img/10.jpg"
+    },
+    {
+      "id": 32423432323425684234,
+      "img": "src/assets/img/9.jpg"
+    }
+  ]
+}
